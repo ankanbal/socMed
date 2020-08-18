@@ -1,0 +1,12 @@
+{
+  "name": "socMed",
+  "displayName": "socMed",
+  "expo": {
+    "name": "socMed",
+    "slug": "socMed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
